@@ -1,5 +1,5 @@
 ```sh
-git clone --recursive https://github.com/llhe/vimrc.git
+git clone --recursive https://github.com/kuozhang/vimrc.git
 
 cd vimrc
 
